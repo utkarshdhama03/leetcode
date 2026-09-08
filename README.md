@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/utkarshdhama03/leetcode/tree/master/0205-isomorphic-strings) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/utkarshdhama03/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/utkarshdhama03/leetcode/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/utkarshdhama03/leetcode/tree/master/0205-isomorphic-strings) |
+| [0383-ransom-note](https://github.com/utkarshdhama03/leetcode/tree/master/0383-ransom-note) |
 ## Array
 |  |
 | ------- |
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/utkarshdhama03/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/utkarshdhama03/leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
