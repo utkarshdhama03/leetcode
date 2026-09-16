@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/utkarshdhama03/leetcode/tree/master/0011-container-with-most-water) |
+| [0061-rotate-list](https://github.com/utkarshdhama03/leetcode/tree/master/0061-rotate-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/utkarshdhama03/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/utkarshdhama03/leetcode/tree/master/0383-ransom-note) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/utkarshdhama03/leetcode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
