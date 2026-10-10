@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/utkarshdhama03/leetcode/tree/master/0011-container-with-most-water) |
+| [0047-permutations-ii](https://github.com/utkarshdhama03/leetcode/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/utkarshdhama03/leetcode/tree/master/0055-jump-game) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/utkarshdhama03/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/utkarshdhama03/leetcode/tree/master/0047-permutations-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/utkarshdhama03/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Counting
 |  |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/utkarshdhama03/leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/utkarshdhama03/leetcode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
