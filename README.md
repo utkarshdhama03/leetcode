@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/utkarshdhama03/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/utkarshdhama03/leetcode/tree/master/0205-isomorphic-strings) |
+| [0268-missing-number](https://github.com/utkarshdhama03/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/utkarshdhama03/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/utkarshdhama03/leetcode/tree/master/0383-ransom-note) |
 ## String
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/utkarshdhama03/leetcode/tree/master/0011-container-with-most-water) |
 | [0047-permutations-ii](https://github.com/utkarshdhama03/leetcode/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/utkarshdhama03/leetcode/tree/master/0055-jump-game) |
+| [0268-missing-number](https://github.com/utkarshdhama03/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/utkarshdhama03/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
@@ -39,12 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/utkarshdhama03/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/utkarshdhama03/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/utkarshdhama03/leetcode/tree/master/0047-permutations-ii) |
 | [0147-insertion-sort-list](https://github.com/utkarshdhama03/leetcode/tree/master/0147-insertion-sort-list) |
+| [0268-missing-number](https://github.com/utkarshdhama03/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/utkarshdhama03/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Counting
 |  |
@@ -64,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/utkarshdhama03/leetcode/tree/master/0047-permutations-ii) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/utkarshdhama03/leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/utkarshdhama03/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
